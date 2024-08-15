@@ -2,8 +2,8 @@
     "defaultSchema": "raw",
     "assertionSchema": "dataform_assertions",
     "warehouse": "bigquery",
-    "defaultDatabase": "ordinal-motif-420420",
-    "defaultLocation": "EU",
+    "defaultDatabase": "dataform-430210",
+    "defaultLocation": "US",
     "vars": {
       "execution_date": "2024-02-09",
       "country":"US"
