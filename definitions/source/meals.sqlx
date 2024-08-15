@@ -1,0 +1,6 @@
+config {
+  type: "declaration",
+  database: "ordinal-motif-420420",
+  schema: "raw",
+  name: "meals",
+}

@@ -1,5 +1,0 @@
-defaultProject: dataform-430210
-defaultLocation: US
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
-dataformCoreVersion: 3.0.0-beta.4
